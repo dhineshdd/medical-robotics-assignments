@@ -21,4 +21,4 @@ https://drive.google.com/drive/folders/1T7ZjfwES2d9sgjDFbgchFeWAKtOn-NyC
 
 # 7 Linkedin Post
 > Submit the LinkedIn post URL
-https://github.com/dhineshdd/medical-robotics-assignments
+
